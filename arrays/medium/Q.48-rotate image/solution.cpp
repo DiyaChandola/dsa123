@@ -13,3 +13,8 @@ public:
         
     }
 };
+
+
+
+
+//basic funda : transpose  and then reverse 
